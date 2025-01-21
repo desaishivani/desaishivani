@@ -6,7 +6,7 @@ Hi, my name is **Shivani Desai**, and I am a passionate **Data Scientist and Mac
 ✉️ **Email:** shivani2601desai@gmail.com  
 🌐 I am always eager to collaborate on data-driven projects and explore cutting-edge technologies.  
 🤝 **Feel free to connect with me on** [LinkedIn](https://www.linkedin.com/in/shivanidesai1204/) **or explore my experiences further.**  
-📄 **Know about my experiences from my** [Resume](https://github.com/desaishivani).  
+📄 **Know about my experiences from my** [Resume](https://github.com/desaishivani/desaishivani/blob/main/Shivani_Desai_new_form.pdf).  
 
 Let's turn data into impactful solutions together! 📊✨  
 
