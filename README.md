@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, my name is **Shivani Desai**, and I am a passionate **Data Scientist and Machine Learning Fellow** dedicated to transforming data into actionable insights. I specialize in machine learning, deep learning, and data visualization to tackle complex problems and deliver impactful results.  
+Hi! My name is **Shivani Desai**, and I am a passionate data scientist and machine learning enthusiast with a strong foundation in data analytics, visualization, and programming. I recently graduated with a **Master's in Data Science and Business Analytics** from the University of North Carolina - Charlotte, achieving a GPA of 3.7.  
 
 🌍 **Location:** Charlotte, NC  
 ✉️ **Email:** shivani2601desai@gmail.com  
